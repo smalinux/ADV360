@@ -1,0 +1,11 @@
+<base>
+[hk4]>[hk3]
+[hk2]>[hk3]
+
+<keypad>
+
+<function1>
+
+<function2>
+
+<function3>
